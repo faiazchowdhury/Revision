@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="52" height="52" viewBox="0 0 52 52">
+    <g transform="translate(-21 -326)">
+        <circle cx="26" cy="26" r="26" transform="translate(21 326)" fill="#656565"
+            opacity="0.19" />
+        <g transform="translate(31 309.126)">
+            <path d="M27.057,38.763v7.086l4.471-1.7-6.2-15.561L0,38.763" transform="translate(0 0)"
+                fill="#6f9935" />
+            <path d="M43.057,146.825V138.94H17.92l-1.92.771v.517H41.768v7.086Z"
+                transform="translate(-14.712 -101.466)" fill="#658b30" />
+            <path d="M0,154.94H27.057v16.749H0Z" transform="translate(0 -116.177)" fill="#79a73a" />
+            <path
+                d="M32,189.974a4.519,4.519,0,0,0,3.034-3.034H50.869a4.519,4.519,0,0,0,3.034,3.034V195.5a4.519,4.519,0,0,0-3.034,3.034H35.034A4.519,4.519,0,0,0,32,195.5Z"
+                transform="translate(-29.423 -145.601)" fill="#aac16b" />
+            <circle cx="3.221" cy="3.221" r="3.221" transform="translate(10.307 43.916)"
+                fill="#79a73a" />
+            <path
+                d="M107.524,88.738,106,84.808l-.07-.173a4.519,4.519,0,0,1-3.941-1.695l-.173.07L88,88.738Z"
+                transform="translate(-80.914 -49.975)" fill="#aac16b" />
+            <path d="M91.107,138.94,88,140.228h19.524l-.5-1.288Z"
+                transform="translate(-80.914 -101.466)" fill="#89b140" />
+            <g transform="translate(5.798 46.493)">
+                <circle cx="0.644" cy="0.644" r="0.644" fill="#79a73a" />
+                <circle cx="0.644" cy="0.644" r="0.644" transform="translate(14.172)"
+                    fill="#79a73a" />
+            </g>
+        </g>
+    </g>
+</svg>
